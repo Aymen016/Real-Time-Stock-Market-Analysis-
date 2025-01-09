@@ -63,3 +63,6 @@ Dataset Link: [indexProcessed.csv](https://github.com/Aymen016/Real-Time-Stock-M
 ├── 📂 data               # Folder for local data files
 ├── 📜 README.md          # Project documentation
 └── 📜 requirements.txt   # Python dependencies
+
+
+![image](https://github.com/user-attachments/assets/c1014496-0e7a-4728-8f68-90cb665764a3)
