@@ -6,7 +6,8 @@ Welcome to the **Stock Market Kafka Real-Time Data Engineering Project**! In thi
 This project involves processing **real-time stock market data** using **Apache Kafka**, storing it on **AWS S3**, analyzing it using **Athena**, and cataloging it with **Glue**. The pipeline demonstrates the operational side of Data Engineering, focusing on building and managing the data flow.
 
 ## 🏗️ Architecture
-![Architecture](Architecture.jpg)
+
+![Architecture](https://github.com/user-attachments/assets/e451102b-2746-4dd0-afcf-7a6a1d6d5c32)
 
 The architecture consists of:
 1. **Data Ingestion**: Streaming stock market data using Kafka.
