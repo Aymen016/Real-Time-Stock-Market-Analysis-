@@ -30,12 +30,8 @@ We utilize the following technologies for building and managing this data pipeli
 ## 📊 Dataset
 We use a stock market dataset that includes processed index data. While you can use any dataset for this project, we focus on building the pipeline.
 
-Dataset Link: [indexProcessed.csv](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv)
+Dataset Link: [indexProcessed.csv](https://github.com/Aymen016/Real-Time-Stock-Market-Analysis/dataset/indexProcessed.csv)
 
-## 📹 Tutorial
-Follow the complete step-by-step tutorial in the video linked below:
-
-📺 **[Watch Tutorial Video](https://www.youtube.com/embed/KerNf0NANMo)**
 
 ---
 
