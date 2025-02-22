@@ -65,4 +65,47 @@ Dataset Link: [indexProcessed.csv](https://github.com/Aymen016/Real-Time-Stock-M
 └── 📜 requirements.txt   # Python dependencies
 
 
-![image](https://github.com/user-attachments/assets/c1014496-0e7a-4728-8f68-90cb665764a3)
+
+---
+
+## 📸 Visualizations
+
+📊 **Correlation Matrix**  
+![Correlation Matrix](Correlation%20Matrix.png)
+
+📈 **Stock Analysis Graph**  
+![Stock Analysis Graph](Stock%20Analysis%20Graph.png)
+
+📋 **Query Execution in Athena**  
+![Query Execution](Query.png)
+
+---
+
+## 🔗 Future Enhancements
+
+🚀 **Enhance Data Processing**: Implement **Apache Spark** for advanced real-time analytics.  
+📈 **Extend Dataset**: Incorporate additional **stock indicators and financial metrics**.  
+🔍 **Improve Machine Learning Models**: Build **predictive analytics** using ML models.  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, add improvements, and submit a PR. 💡
+
+---
+
+## 📜 License
+
+🔖 This project is licensed under the **MIT License**.
+
+---
+
+## 📩 Contact
+
+📧 **Email**: ayemenbaig26@gmail.com  
+🌍 **Github**: [Aymen016](https://github.com/Aymen016)
+
+---
+
+🔗 **Follow this repository for updates on real-time stock market analytics!** 🚀
